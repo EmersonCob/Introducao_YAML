@@ -1,4 +1,4 @@
-# Instruçções para o programa
+# Instruções para o programa
 
 nome: "Matheus"
 idade: 30 # Está é a idade do usuário
@@ -9,4 +9,13 @@ idade: 30 # Está é a idade do usuário
 objeto:
   versao: 2
   arquivo: "teste.txt"
+
+versao: 2
+vevrsao_completa: 3.14
+
+string_sem_aspas: Digite um texto aqui
+texto: "Este tambem e um texto valido para o YAML"
+
+nulo: ~
+nulo_dois: null
 

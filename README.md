@@ -41,3 +41,29 @@ para configurar o Docker Compose
 * Inteiros = 12
 
 * Floats = 15.8
+
+## Strings
+
+* Em YAML podemos escrever textos de duas formas
+
+* Sem aspas: este é um texto válido
+
+* Com aspas: "e este também"
+
+## Dados nulos
+
+* Em YAML podemos definir um dado como nulo de duas formas
+
+* ~ ou null
+
+* Os dois vão resultar em None, após a interpretação 
+
+
+## Booleanos
+
+* Podemos inserir booleanos em YAML da seguinte forma
+
+* True e On = verdadeiro
+
+* False e off = falso
+
