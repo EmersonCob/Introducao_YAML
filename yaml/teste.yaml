@@ -25,3 +25,20 @@ verdadeiro_dois: On
 falso: False
 falso_dois: Off
 
+lista: [1, 2, 3, 4, 5]
+
+lista_dois:
+  - "teste"
+  - 10
+  - outro teste
+  - True
+
+obj: {a: 1, b: 2, c: 3, objeto_interno: {a: 1}}
+
+objeto:
+  a: 1
+  b: 2
+  objeto_interno:
+    x: 2
+
+    
