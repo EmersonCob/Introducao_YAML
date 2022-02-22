@@ -67,3 +67,14 @@ para configurar o Docker Compose
 
 * False e off = falso
 
+## Arrays
+
+* Os arrays, tipos de dados para listas, possuem duas sintaxes
+
+* Primeira: [1,2,3,4,5]
+
+* Segunda: 
+items:
+- 1
+- 2
+- 3
