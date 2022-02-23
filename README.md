@@ -75,9 +75,9 @@ para configurar o Docker Compose
 
 * Segunda: 
 items:
-- 1
-- 2
-- 3
+* - 1
+* - 2
+* - 3
 
 ## Dicionários
 
