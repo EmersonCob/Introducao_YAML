@@ -50,6 +50,7 @@ para configurar o Docker Compose
 
 * Com aspas: "e este também"
 
+
 ## Dados nulos
 
 * Em YAML podemos definir um dado como nulo de duas formas
@@ -66,6 +67,7 @@ para configurar o Docker Compose
 * True e On = verdadeiro
 
 * False e off = falso
+
 
 ## Arrays
 
